@@ -29,6 +29,10 @@ A cinematic cut scene introduces the game, revealing the origins of the curse an
 ##### GUI & Menu Management:
 The GUI displays the countdown timer and the number of coins to be collected. Also, the use of a Menu manager gives a structure to this game.
 
+![Game Screenshot](game_start.png)
+![Game Screenshot](gameplay_1.png)
+
+
 ##### Win/Lose Condition:
 
 Win: Collect all coins before the timer hits zero. at the end, if the player win,s a winner panel will be displayed 
