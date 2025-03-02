@@ -11,8 +11,17 @@ This game was part of my 3D Game programming class. The only way to escape is to
 ##### Gameplay and Navigation:
 Players navigate through an eerie, atmospheric world using horizontal and vertical character movement and dynamic camera controls. The environment is crafted with custom HDRI for immersive lighting effects, ensuring that shadows and highlights create an eerie sense of urgency.
 
+![Game Screenshot](game_scene_1.png)
+![Game Screenshot](game_scene_2.png)
+
+
+
 ##### Visuals & Assets:
 The world is built using high-quality assets from the Unity Asset Store, integrated with custom materials and shaders to enhance realism. 
+![Game Screenshot](game_scene_3.png)
+![Game Screenshot](game_scene_4.png)
+
+
 
 ##### Cinematic Cutscene & Storytelling:
 A cinematic cut scene introduces the game, revealing the origins of the curse and the stakes at hand. 
