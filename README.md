@@ -30,7 +30,7 @@ A cinematic cut scene introduces the game, revealing the origins of the curse an
 The GUI displays the countdown timer and the number of coins to be collected. Also, the use of a Menu manager gives a structure to this game.
 
 ![Game Screenshot](game_start.png)
-![Game Screenshot](gameplay_1.png)
+![Game Screenshot](gameplay.png)
 
 
 ##### Win/Lose Condition:
